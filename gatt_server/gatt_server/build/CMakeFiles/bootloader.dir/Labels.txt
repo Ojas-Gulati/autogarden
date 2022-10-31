@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/C/autogarden/gatt_server/gatt_server/build/CMakeFiles/bootloader
+C:/C/autogarden/gatt_server/gatt_server/build/CMakeFiles/bootloader.rule
+C:/C/autogarden/gatt_server/gatt_server/build/CMakeFiles/bootloader-complete.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/C/autogarden/gatt_server/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

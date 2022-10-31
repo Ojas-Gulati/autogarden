@@ -1,0 +1,212 @@
+.material-icons {
+	font-size: initial;
+}
+
+.main-wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+.font-size-large {
+	font-size: 40px;
+}
+
+.font-size-medium {
+	font-size: 24px;
+}
+
+.header-box {
+	height: 10vh;
+	background-color: turquoise;
+	color: black;
+	overflow: hidden;
+}
+
+.main-box {
+	height: 90vh;
+	overflow-y: auto;
+}
+
+.ag-collapse {
+	transition: 0.25s;
+	max-height: 100px;
+	overflow: hidden;
+}
+
+.ag-collapsed {
+	max-height: 0px;
+}
+
+.dropdown-icon {
+	transition: 0.25s;
+}
+
+.dropdown-icon-rotate {
+	transform: rotate(90deg);
+}
+
+.buttonsDiv {
+	position: fixed;
+	right: 10px;
+	bottom: 0px;
+	padding: 15px;
+}
+
+.popup {
+	background-color: white;
+	position: fixed;
+	width: 90%;
+	left: 5%;
+	top: 50%;
+	transform: translateY(-50%);
+	box-shadow: 5px 5px;
+	border: 1px solid black;
+	z-index: 2000;
+	max-height: 90vh;
+	transition: 0.15s;
+}
+
+.overflow-overlay {
+	overflow: overlay;
+}
+
+.popupX {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+.ag-fading_down {
+	opacity: 0;
+}
+
+.ag-fading_up {
+	opacity: 1;
+}
+
+.ag-faded {
+	display: none;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.flash-fade {
+	transition: 2s;
+	opacity: 0;
+}
+
+.water-icon {
+	transform: rotate(180deg);
+}
+
+.sensoricon {
+	transition: 1s;
+}
+
+.watering-bar {
+	display: inline-block;
+	width: 20px;
+}
+
+.wateringregion {
+	width: 20px;
+	height: 250px;
+}
+
+.wateringslider {
+	-webkit-appearance: none;
+	height: 20px;
+	width: 100%;
+	background: #d3d3d3;
+	outline: none;
+	left: -65px;
+	top: 115px;
+}
+
+.wateringslider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 25px;
+	height: 25px;
+	background: rgba(10, 90, 255, 0.8);
+	cursor: pointer;
+}
+
+.l-section {
+	width: 120px;
+	display: inline-block;
+	text-align: center;
+}
+
+.r-section {
+	width: 200px;
+	display: inline-block;
+}
+
+.sectionslider {
+	height: 250px;
+	position: relative;
+}
+
+.hueslider {
+	outline: 0;
+	-webkit-appearance: none;
+	width: 100%;
+	height: 4px;
+	background: linear-gradient(to right, #f00 0%, #ff8000 8.3%, #ff0 16.6%, #80ff00 25%, #0f0 33.3%, #00ff80 41.6%, #0ff 50%, #007fff 58.3%, #00f 66.6%, #7f00ff 75%, #f0f 83.3%, #ff0080 91.6%, #f00 100%);
+}
+
+.hueslider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	background: #212529;
+	cursor: pointer;
+}
+
+.div-disabled {
+	opacity: 0.5;
+	pointer-events: none;
+}
+
+.floating-scrollbar::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+.floating-scrollbar::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.floating-scrollbar::-webkit-scrollbar-thumb {
+  background: #828282;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.floating-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #757575;
+}
+.floating-scrollbar::-webkit-scrollbar-thumb:active {
+  background: #5e5e5e;
+}
+.floating-scrollbar::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0);
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.floating-scrollbar::-webkit-scrollbar-track:hover {
+  background: #e0e0e0;
+}
+.floating-scrollbar::-webkit-scrollbar-track:active {
+  background: #bababa;
+}
+.floating-scrollbar::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+.transition-1 {
+	transition: 1s;
+}
